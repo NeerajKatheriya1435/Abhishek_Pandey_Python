@@ -159,3 +159,11 @@ numnew=56
 #         pass
 #     else:
 #         print(i)
+
+# def fact(num):
+#     fact1=1
+#     for i in range(1,num+1):
+#         fact1=fact1*i
+#     return fact1
+    
+# print(fact(5))
