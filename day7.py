@@ -89,5 +89,3 @@
 
 # print(c is d)
 # print(c == d)
-
-
